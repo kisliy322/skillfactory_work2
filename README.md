@@ -47,4 +47,4 @@ git config --global user.email "your_email@whatever.com"
 	
 Для слияния изменений с веткой main:
 	
-		git merge main
+	git merge main
